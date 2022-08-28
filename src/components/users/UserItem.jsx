@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import React from 'react'
 import PropTypes from 'prop-types'
 
 function UserItem({ user: { login, avatar_url } }) {
