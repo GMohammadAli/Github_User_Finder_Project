@@ -1,4 +1,3 @@
-import React from 'react'
 import { useContext } from 'react'
 import Spinner from '../layout/Spinner'
 import UserItem from '../users/UserItem'
